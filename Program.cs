@@ -1,4 +1,7 @@
-﻿using System.IO;
+//*****************************************
+/* Program learn working with streams.*/
+//*****************************************
+using System.IO;
 using System.Xml;
 using static System.Console;
 using static System.Environment;
